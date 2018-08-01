@@ -1,0 +1,7 @@
+README.md
+setup.py
+FeaturesAndValues/__init__.py
+FeaturesAndValues_pkg.egg-info/PKG-INFO
+FeaturesAndValues_pkg.egg-info/SOURCES.txt
+FeaturesAndValues_pkg.egg-info/dependency_links.txt
+FeaturesAndValues_pkg.egg-info/top_level.txt
