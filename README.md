@@ -2,9 +2,16 @@ This package is the **first** version of the _**FeaturesAndValues**_ package. Th
 
 **For Example:** When you are given with number of features and value of each row as space separated string and are asked to train a Machine Learning algorithm on those values. Once the algorithm is trained on all the attributes the trained model can be used to predict the value of another set of inputs where we don't have the value of the last attribute or the classification attribute.
 
+**Installing the Package:**
+
+``` terminal
+pip install FeaturesAndValues-pkg
+```
+
+
 **Pre-requisites:** You need to have pandas, numpy and sklearn installed before hand to work with this package. To add this packages do:
 
-```
+``` terminal
 python3 -m pip install -U pandas numpy sklearn
 ```
 
